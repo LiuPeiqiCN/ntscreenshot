@@ -32,3 +32,7 @@ Windows截图工具，来自[源码地址](https://gitee.com/tujiaw/ntscreenshot
 
 ## 设置
 托盘右键菜单打开设置窗口
+
+## 截图
+![](ntscreenshot_demo.png)
+![](ntscreenshot_demo2.png)

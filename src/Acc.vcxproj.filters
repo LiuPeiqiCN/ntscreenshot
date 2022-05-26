@@ -304,6 +304,8 @@
     <None Include="resource\darkstyle\darkstyle.qss">
       <Filter>Resource Files\darkstyle</Filter>
     </None>
+    <None Include="..\LICENSE" />
+    <None Include="..\README.md" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="resource\ntscreenshot.rc">
